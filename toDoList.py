@@ -1,4 +1,3 @@
-import tkinter
 from tkinter import *
 import os
 import sqlite3
