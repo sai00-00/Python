@@ -3,8 +3,6 @@ from tkinter import *
 import os
 import sqlite3
 
-print("Follow me on my Instagram https://www.instagram.com/iamsainath.u/")
-
 #Function main
 def main():
 	#Define conn(connection), c(cursor) to be global 
